@@ -1,0 +1,67 @@
+.jumbotron {
+
+ /* border: solid red; */
+ display: none;
+
+}
+
+/* .login-header {
+  text-align: justify;
+
+} */
+
+body {
+  background-image: url("https://images.pexels.com/photos/685534/pexels-photo-685534.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+  background-color: #cccccc;
+  background-size: cover;
+  background-position: center;
+}
+
+.display-4 {
+  text-align: center;
+}
+
+.login-form {
+    display: block;
+    margin-top: 0em;
+    text-align: center;
+}
+
+/* Added for login screen*/
+/* downloaded from :  */
+/* https://bootsnipp.com/snippets/dldxB */
+
+.login {
+  /* background-color: #56baed; */
+  background-image: url('https://images.pexels.com/photos/39308/runners-silhouettes-athletes-fitness-39308.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 100vh;
+}
+
+.underlineHover {
+  text-align: center;
+}
+
+/* body {
+  font-family: "Poppins", sans-serif;
+  height: 100vh;
+} */
+
+a {
+  color: #92badd;
+  display:inline-block;
+  text-decoration: none;
+  font-weight: 400;
+}
+
+h1 {
+  text-align: center;
+  font-size: 16px;
+  font-weight: 600;
+  text-transform: uppercase;
+  display:inline-block;
+  margin: 40px 8px 10px 8px;
+  color: #cccccc;
+}
